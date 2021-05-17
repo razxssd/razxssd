@@ -24,3 +24,31 @@
   <br>
   📫 How to reach me: <a href="mailto: capanueduard98@gmail.com">capanueduard98@gmail.com</a>
 </p>
+<hr>
+
+<h2 align="center">⚡ Languages & Frameworks & Tools & Abilities ⚡</h2>
+<br>
+<div align="center">
+   <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razxssd&hide=c%23,powershell,java&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
+   </div>
+   <br>
+   <div>
+   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;
+   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
+   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
+   <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>&nbsp;
+      
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>&nbsp;
+  <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/svelte%20-%23ffffff.svg?&style=for-the-badge&logo=svelte&logoColor=red"/>&nbsp;
+
+
+   </div>
+   
+</div>
