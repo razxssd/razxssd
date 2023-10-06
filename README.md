@@ -11,7 +11,7 @@
 </h5>
 
 <p align="center">
-  I am 24 year old and I started my career 2 years ago, even though my passion and interest were born more than 7 years ago.
+  I am 24 year old and I started my career 6 years ago, even though my passion and interest were born more than 11 years ago.
   <br>
   <br>
   🔬 Starting from the basics, from understanding how a simple web application worked and was created, I was amazed by what a developer is able to see and create behind the scenes and by what an end customer uses, thus making my decision to enter in this world.
