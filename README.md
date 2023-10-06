@@ -3,7 +3,7 @@
 </div>
 
 <h5 align="center">
-  <code><a href="https://www.eduardcapanu.com/" title="Personal Website"><img width="22" src="https://github.com/razxssd/razxssd/blob/main/Images/personalwebsite_logo.png"> Personal Website</a></code>
+  <code><a href="https://www.eduardcapanu.com/" title="Personal Website"><img width="22" src="https://github.com/razxssd/razxssd/blob/main/Images/personalwebsite_logo.png">Personal Website</a></code>
   <code><a href="https://www.linkedin.com/in/eduardcapanu/" title="LinkedIn Profile"><img width="22" src="https://github.com/razxssd/razxssd/blob/main/Images/linkedin_logo.png"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/capanueduard98" title="HackerRank Profile"><img width="22" src="https://github.com/razxssd/razxssd/blob/main/Images/hackerrank_logo.png"> HackerRank</a></code>
   <code><a href="https://www.instagram.com/andrey_eddy/" title="Instagram Profile"><img width="22" src="https://github.com/razxssd/razxssd/blob/main/Images/instagram_logo.png"> Instagram</a></code>
