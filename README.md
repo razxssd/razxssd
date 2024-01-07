@@ -17,7 +17,7 @@
   🔬 Starting from the basics, from understanding how a simple web application worked and was created, I was amazed by what a developer is able to see and create behind the scenes and by what an end customer uses, thus making my decision to enter in this world.
   <br>
   <br>
-  💻 As a developer, I divide my time between the frontend development on Microsoft technologies, at the Talentium company and the in-depth analysis of the new Microsoft 365 / React technologies, together with the involvement on the various Italian and international communities, trying to give my contribution and to learn more every day.
+  💻 As a developer, I divide my time between the frontend development on Microsoft technologies and the in-depth analysis of the new Microsoft 365 / React technologies, together with the involvement on the various Italian and international communities, trying to give my contribution and to learn more every day.
   <br>
   <br>
   📚 I love writing code and learn anythings about it
