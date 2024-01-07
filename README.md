@@ -22,8 +22,6 @@
   <br>
   📚 I love writing code and learn anythings about it
   <br>
-  <br>
-  📫 How to reach me: <a href="mailto: capanueduard98@gmail.com">capanueduard98@gmail.com</a>
 </p>
 <hr>
 
